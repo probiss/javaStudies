@@ -20,7 +20,7 @@ public class Mini1 {
 
         if(isPrime == false || number == 1) {
             System.out.println("Number is not prime.");
-        } else{
+        } else {
             System.out.println("Number is prime.");
         }
     }
